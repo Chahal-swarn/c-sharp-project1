@@ -24,16 +24,6 @@ quote = (width * height * length * weight)/100
 
 print( f" your shipping quote is: ${ quote:.2f} " )
 
-create new repository as a Package-Express
 
-then
-
-git clone https://github.com/chahal/package-express.gitLinks to an external site.
-
-git add shipping_quote.py
-
-git commit-m "Initial commit of shipping quote  script"
-
-git push origin main
 
  
